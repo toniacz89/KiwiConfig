@@ -27,7 +27,7 @@ ModularCSGOConfig
 
  - 2) Copy your current config and video setting from YourSteamLocation/userdata/YOURSTEAMID/730/local/cfg (you need video.txt and config.cfg)
 
-
+## How to install Kiwi.CFG
 
  - 1) After installation run game, open console, and type "exec autoexec"
 
